@@ -11,7 +11,7 @@
       "name": "mysql",
       "database": "test",
       "username": "root",
-      "password": "123456789",
+      "password": "",
       "connectionTimeout": 15
     }
   ]
